@@ -49,7 +49,7 @@ Some of the queries include:
 ##  Author
 
 *SREERAM J *  
-GitHub: [yourusername](https://github.com/SREERAM003)
+GitHub: [SREERAM J ](https://github.com/SREERAM003)
 
 ##  License
 
